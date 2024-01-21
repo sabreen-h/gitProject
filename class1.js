@@ -1,4 +1,4 @@
-class HelloWorldPrinter {
+class HelloJava {
     constructor() {
     }
   
