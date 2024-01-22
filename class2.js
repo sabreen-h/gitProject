@@ -7,7 +7,7 @@ class HellITIPrinter {
     }
 
     printHelloGit() {
-        console.log("Hello");
+        console.log("sara");
       }
   }
   
